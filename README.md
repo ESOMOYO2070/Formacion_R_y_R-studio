@@ -1,13 +1,12 @@
-# Formacion_R_y_R-studio
+# Objetivos de la formación:
+Este programa de formación tiene como objetivo principal proporcionar a los participantes todos los conocimientos necesarios para dominar la estadística, la econometría, el análisis y la visualización de datos utilizando el software R y RStudio.
 
+## ¿A quién va dirigido?
+El curso está diseñado como un apoyo integral para profesionales y estudiantes del área no técnica que estén interesados en adquirir sólidos conocimientos tanto teóricos como prácticos. Está enfocado en el manejo, procesamiento y análisis de la información.
 
-## Objetivos de la formación
-La formacion en R y R studio tiene el objetivo de proporcionar a los participantes todos los conocimientos necesarios en
-estadistica, eeconometría, analisis y visualizacíon de datos utilizando el software R y R studio.
+## Requisitos:
+No se requieren conocimientos previos de programación en R o RStudio. Partimos desde cero para guiarte paso a paso hasta un nivel profesional.
 
-Este curso sirve de apoyo para los profesionales y estudiantes no tecnicos que estan interesandos en adquirir conocimientos teoricos y practicos
-en estadistica, econometria y en el manejo y procesamiento de la informacion y no requiere de conocimientos básicos en programación con R y R studio.
-
-El curso esta orientado a mejorar y proporcionar los siguientes conocimientos a los participantes;
-
+## Beneficios del Curso:
+Al finalizar la formación, los participantes no solo habrán adquirido habilidades técnicas, sino que mejorarán su perfil profesional, convirtiéndose en expertos capacitados para enfrentar desafíos reales de análisis de datos y destacar en un mercado laboral cada vez más orientado a la toma de decisiones basada en datos.
 
