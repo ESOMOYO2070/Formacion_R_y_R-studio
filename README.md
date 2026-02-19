@@ -10,3 +10,4 @@ en estadistica, econometria y en el manejo y procesamiento de la informacion y n
 
 El curso esta orientado a mejorar y proporcionar los siguientes conocimientos a los participantes;
 
+
