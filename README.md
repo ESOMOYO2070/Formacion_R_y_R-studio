@@ -1,4 +1,4 @@
-# Objetivos de la formación:
+## Objetivos de la formación:
 El objetivo de esta formación es proporcionar a los participantes los conocimientos necesarios para dominar la estadística, econometría y análisis de datos utilizando el programa R y Rstudio.
 
 No se requieren conocimientos previos en programación en R y Rstudio. Partimos de cero para guiarte paso a paso hasta un nivel profesional.
