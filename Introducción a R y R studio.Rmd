@@ -1,0 +1,6 @@
+---
+title: "Introducción a R y R studio"
+Author: "Gabino Esono Owono Esmoyo"
+output: html_document
+---
+
